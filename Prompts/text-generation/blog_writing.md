@@ -6,3 +6,4 @@ Write a 500-word blog post about the benefits of AI in healthcare. Include real-
 AI has transformed healthcare by enabling predictive analytics, improving diagnostics, and optimizing patient care. For example, …  
 [See full generated text](Prompts/Examples/ai_healthcare_blog.md)
 
+
