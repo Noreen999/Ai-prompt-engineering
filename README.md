@@ -1,5 +1,9 @@
-# AI Prompt Engineering Portfolio
-Helping businesses and individuals unlock the full potential of AI tools through optimized prompts.
+# AI Prompt Engineering PortfolioWelcome to my AI Prompt Engineering Portfolio! Here, I showcase my expertise in designing optimized prompts for tools like ChatGPT, DALL·E, and Stable Diffusion. My work spans text generation, image creation, and chatbot development.
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-brightgreen)
+![Stable Diffusion](https://img.shields.io/badge/Tool-StableDiffusion-orange)
+![DALL·E](https://img.shields.io/badge/Tool-DALL·E-blueviolet)
 
 ## Introduction
 Prompt engineering is the art of crafting precise and effective inputs to guide AI tools like ChatGPT, DALL·E, and Stable Diffusion. It plays a critical role in generating accurate and high-quality outputs, making it invaluable for businesses and individuals aiming to optimize their AI workflows.
