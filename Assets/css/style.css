@@ -1,8 +1,8 @@
 .logo {
-    width: 150px; /* Adjust size to make it like a profile picture */
-    height: auto; /* Keeps the aspect ratio */
-    border-radius: 50%; /* Makes it circular */
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Make it square for a perfect circle */
+    border-radius: 50%; /* This makes it circular */
+    object-fit: cover; /* Ensures the image fits well */
     display: block; /* Centers the image */
     margin: 0 auto; /* Centers the image horizontally */
 }
-
