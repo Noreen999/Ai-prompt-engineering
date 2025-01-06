@@ -1,4 +1,5 @@
-# AI Prompt Engineering PortfolioWelcome to my AI Prompt Engineering Portfolio! Here, I showcase my expertise in designing optimized prompts for tools like ChatGPT, DALL·E, and Stable Diffusion. My work spans text generation, image creation, and chatbot development.
+# AI Prompt Engineering Portfolio
+Welcome to my AI Prompt Engineering Portfolio! Here, I showcase my expertise in designing optimized prompts for tools like ChatGPT, DALL·E, and Stable Diffusion. My work spans text generation, image creation, and chatbot development.
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![ChatGPT](https://img.shields.io/badge/Tool-ChatGPT-brightgreen)
