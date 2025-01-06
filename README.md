@@ -33,6 +33,10 @@ Each section contains detailed examples, along with generated outputs for refere
 - Focused on text, image, and conversational AI.
 
 
+<img src="/images/AWVI0695.JPG" alt="Profile Picture" width="100" height="100" style="border-radius: 50%;">
+
+
+
 ## Contact Information
 - **Email:** [zehranoreen6@gmail.com](mailto:zehranoreen6@gmail.com)  
 - **Fiverr Profile:** [Fiverr Link](https://www.fiverr.com/noreen_zehra/buying?source=avatar_menu_profile)  
