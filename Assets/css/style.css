@@ -1,5 +1,8 @@
-img.logo {
-    width: 100px; /* Adjust this size as needed */
-    height: 100px; /* Keeps it square */
-    border-radius: 50%; /* Makes it circular like a profile picture */
+.logo {
+    width: 150px; /* Adjust size to make it like a profile picture */
+    height: auto; /* Keeps the aspect ratio */
+    border-radius: 50%; /* Makes it circular */
+    display: block; /* Centers the image */
+    margin: 0 auto; /* Centers the image horizontally */
 }
+
