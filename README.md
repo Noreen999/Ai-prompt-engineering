@@ -21,6 +21,13 @@ This portfolio showcases examples of my work in AI prompt engineering, categoriz
 Each section contains detailed examples, along with generated outputs for reference.
 
 
+
+## Highlights
+- Over 50+ optimized prompts.
+- Experience in real-world applications.
+- Focused on text, image, and conversational AI.
+
+
 ## Contact Information
 - **Email:** [zehranoreen6@gmail.com](mailto:zehranoreen6@gmail.com)  
 - **Fiverr Profile:** [Fiverr Link](https://www.fiverr.com/noreen_zehra/buying?source=avatar_menu_profile)  
