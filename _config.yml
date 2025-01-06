@@ -2,7 +2,7 @@ title: Noreen
 logo: /images/AWVI0695.JPG
 # description: Discover my work in AI prompt engineering. Text, images, and code—all powered by state-of-the-art AI tools.
 theme: jekyll-theme-minimal
-custom_css: styles.css
+custom_css: style.css
 
 show_downloads: true
 
