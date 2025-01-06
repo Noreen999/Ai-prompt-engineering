@@ -1,3 +1,5 @@
+<img src="/images/AWVI0695.JPG" alt="Profile Picture" width="100" height="100" style="border-radius: 50%;">
+
 # AI Prompt Engineering Portfolio
 Welcome to my AI Prompt Engineering Portfolio! Here, I showcase my expertise in designing optimized prompts for tools like ChatGPT, DALL·E, and Stable Diffusion. My work spans text generation, image creation, and chatbot development.
 
@@ -33,7 +35,7 @@ Each section contains detailed examples, along with generated outputs for refere
 - Focused on text, image, and conversational AI.
 
 
-<img src="/images/AWVI0695.JPG" alt="Profile Picture" width="100" height="100" style="border-radius: 50%;">
+
 
 
 
