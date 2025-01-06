@@ -1,0 +1,5 @@
+img.logo {
+    width: 100px; /* Adjust this size as needed */
+    height: 100px; /* Keeps it square */
+    border-radius: 50%; /* Makes it circular like a profile picture */
+}
