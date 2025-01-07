@@ -34,7 +34,11 @@ Each section contains detailed examples, along with generated outputs for refere
 
 
 
+### Projects:
 
+- [Text Generation Prompts](https://github.com/Noreen999/flask_app/tree/main/text_generation)
+- [Image Generation Prompts](https://github.com/Noreen999/flask_app/tree/main/image_generation)
+- [Chatbot Flows](https://github.com/Noreen999/flask_app/tree/main/chatbot_flows)
 
 
 ## Contact Information
