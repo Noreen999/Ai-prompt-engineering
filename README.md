@@ -37,7 +37,7 @@ Each section contains detailed examples, along with generated outputs for refere
 ### Projects:
 
 - [Text Generation Prompts](Prompts/Examples/ai_healthcare_blog.md)
-- [Image Generation Prompts](../../examples/images/dragon_castle.png)
+- [Image Generation Prompts](Prompts/Examples/dragon.jpeg)
 - [Chatbot Flows](https://github.com/Noreen999/flask_app/tree/main/chatbot_flows)
 
 
